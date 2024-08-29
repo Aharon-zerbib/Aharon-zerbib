@@ -1,6 +1,6 @@
 <h1 align="center">welcome to my page!</h1>
 
-<img align="left" src="https://github.com/Dyzean.png" width="411" />
+<img align="left" src="[https://github.com/Dyzean.png](https://avatars.githubusercontent.com/u/120047107?s=400&u=2875f9728a5dd5a69243f6e71989802c8e839a73&v=4)" width="411" />
 
 ```haskell
 Ronron@github
