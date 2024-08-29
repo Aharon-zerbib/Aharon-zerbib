@@ -33,3 +33,11 @@ stars     • 0
   [![Reddit Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/Daykoro_)
 
 </div>
+<p align="left"> <a href="https://www.github.com/Aharon-zerbib" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Aharon-zerbib"><img src="https://github-readme-stats.vercel.app/api?username=Aharon-zerbib&show_icons=true&hide=stars,issues,&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aharon-zerbib's GitHub stats" /></a>
+
+<a href="https://github.com/Aharon-zerbib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aharon-zerbib&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2
