@@ -10,7 +10,6 @@ git       • version 2.45.2.
 
 pronouns  • he/him
 address   • France
-school    • smkn 1 ciomas
 hobbies   • gaming, code,
             watching anime
 
@@ -19,10 +18,10 @@ skills    • html, css, javascript,
 learning  • React, Typescript,
             Figma, Unreal Engine, Blender
 
-repos     • {{ REPOSITORIES }}
-commits   • {{ COMMITS }}
-issues    • {{ ISSUES }}
-stars     • {{ STARS }}
+repos     • 12
+commits   • 0
+issues    • 0
+stars     • 0
 ```
 
 <h1></h1>
