@@ -72,22 +72,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <p align="left">
-  <a href="https://discord.com/users/daykoro" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-colored.svg" 
-         width="32" height="32" alt="Discord" />
-  </a>
-  <a href="https://www.github.com/Aharon-zerbib" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-colored.svg" 
-         width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="http://www.instagram.com/ronron.mz" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-colored.svg" 
-         width="32" height="32" alt="Instagram" />
-  </a>
-  <a href="https://www.x.com/Daykoro_" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-colored.svg" 
-         width="32" height="32" alt="Twitter" />
-  </a>
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daykoro)
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Aharon-zerbib)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/ronron.mz)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/Daykoro_)
 </p>
 
 
