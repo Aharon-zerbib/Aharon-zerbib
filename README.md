@@ -58,11 +58,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ##Graph
 
 <p align="left">
+  <a href="https://www.blender.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/bd6a68f7-03b5-45fd-999d-ed8d6f15c907" 
+         width="36" height="36" alt="Blender" />
+  </a>
+  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/72a0bbf7-539a-43f2-bc97-fde128c24032" 
+         width="36" height="36" alt="Unreal Engine" />
+  </a>
+</p>
 
-[![Blender](https://github.com/user-attachments/assets/bd6a68f7-03b5-45fd-999d-ed8d6f15c907)](https://www.blender.org)
-
-[![Unreal Engine](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)](https://www.unrealengine.com)
- </p>
 
  
 ### Socials
