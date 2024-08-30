@@ -61,9 +61,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
        width="36" height="36" alt="Blender" />
 </a>
 <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/unrealengine-colored.svg" 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unreal_Engine_logo_2014.svg/1200px-Unreal_Engine_logo_2014.svg.png" 
        width="36" height="36" alt="Unreal Engine" />
 </a>
+
  </p>
 
  
