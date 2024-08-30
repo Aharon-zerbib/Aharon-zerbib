@@ -56,10 +56,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 ##Graph
-<p align="left">
-[![Blender](https://upload.wikimedia.org/wikipedia/commons/3/3b/Blender_logo_%282018%29.svg)](https://www.blender.org)
-[![Unreal Engine](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unreal_Engine_logo_2014.svg/1200px-Unreal_Engine_logo_2014.svg.png)](https://www.unrealengine.com)
 
+<p align="left">
+
+[![Blender](https://github.com/user-attachments/assets/bd6a68f7-03b5-45fd-999d-ed8d6f15c907)](https://www.blender.org)
+
+[![Unreal Engine](https://img.icons8.com/ios-filled/50/000000/unreal-engine.png)](https://www.unrealengine.com)
  </p>
 
  
