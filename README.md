@@ -36,18 +36,18 @@ width="40" height="40" alt="Vite" /></a>
 
 ### Learning
 <p align="left">
- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"   
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"   
  width="40" height="40" alt="TypeScript" /></a>
- <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"   
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"   
 width="40" height="40" alt="React" /></a>
 
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" 
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" 
        width="40" height="40" alt="MongoDB" />
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
+  <img src="hhttps://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" 
        width="40" height="40" alt="Node.js" />
 </a>
 
