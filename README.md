@@ -78,11 +78,23 @@ width="40" height="40" alt="React" /></a>
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" 
        width="40" height="40" alt="discord" />
 </a>
+<a href="https://www.github.com/Aharon-zerbib" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" 
+       width="40" height="40" alt="gitHub" />
+</a>
+<a href="http://www.instagram.com/ronron.mz" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" 
+       width="40" height="40" alt="Instagram" />
+</a>
+<a href="https://www.x.com/Daykoro_" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" 
+       width="40" height="40" alt="twitter" />
+</a>
+<a href="https://www.linkedin.com/in/aharon-zerbib-911bb6276/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
+       width="40" height="40" alt="LinkedIn" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Aharon-zerbib)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/ronron.mz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/Daykoro_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aharon-zerbib-911bb6276/)
 </p>
 
 
