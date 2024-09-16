@@ -88,7 +88,7 @@ width="40" height="40" alt="React" /></a>
 </a>
 <a href="https://www.x.com/Daykoro_" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" 
-       width="40" height="40" alt="twitter" />
+width="40" height="40" alt="twitter" />
 </a>
 <a href="https://www.linkedin.com/in/aharon-zerbib-911bb6276/" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
