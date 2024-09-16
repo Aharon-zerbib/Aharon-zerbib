@@ -41,6 +41,14 @@ width="40" height="40" alt="Vite" /></a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"   
 width="40" height="40" alt="React" /></a>
 
+<a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" 
+       width="40" height="40" alt="angular" />
+</a>
+<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
+       width="40" height="40" alt="pyton" />
+</a>
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" 
        width="40" height="40" alt="MongoDB" />
