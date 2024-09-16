@@ -74,7 +74,11 @@ width="40" height="40" alt="React" /></a>
 
 <p align="left">
 
-[![Discord](https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg)](https://discord.com/users/daykoro)
+<a href="https://discord.com/users/daykoro" target="_blank" rel="noreferrer">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" 
+       width="40" height="40" alt="discord" />
+</a>
+
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/Aharon-zerbib)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](http://www.instagram.com/ronron.mz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/Daykoro_)
