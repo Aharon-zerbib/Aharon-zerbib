@@ -10,26 +10,26 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  
  width="40" height="40" alt="html"/></a>
  <a href="https://www.w3.org/TR/CSS/#css"   
- target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"   
- width="36" height="36" alt="CSS3" /></a>
+ target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"   
+ width="40" height="40" alt="CSS3" /></a>
  <a href="https://sass-lang.com/"   
- target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"   
- width="36" height="36" alt="Sass"   
+ target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg"   
+ width="40" height="40" alt="Sass"   
  /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"   
- width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg"   
+ width="40" height="40" alt="JavaScript" /></a>
  <a href="https://code.visualstudio.com/"   
- target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"   
- width="36" height="36" alt="VS Code" /></a>
+ target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"   
+ width="40" height="40" alt="VS Code" /></a>
  <a href="https://git-scm.com/"   
- target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"   
- width="36" height="36" alt="Git"   
+ target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"   
+ width="40" height="40" alt="Git"   
  /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"   
- width="36" height="36" alt="Vite" /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"   
+width="40" height="40" alt="Vite" /></a>
 <a href="https://www.figma.com/"   
- target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"   
- width="36" height="36" alt="Figma"   
+ target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"   
+ width="40" height="40" alt="Figma"   
  /></a>
 
 </p>
@@ -37,18 +37,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Learning
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"   
- width="36" height="36" alt="TypeScript" /></a>
+ width="40" height="40" alt="TypeScript" /></a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"   
- width="36" height="36" alt="React" /></a>
+width="40" height="40" alt="React" /></a>
 
 <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" 
-       width="36" height="36" alt="MongoDB" />
+       width="40" height="40" alt="MongoDB" />
 </a>
 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" 
-       width="36" height="36" alt="Node.js" />
+       width="40" height="40" alt="Node.js" />
 </a>
 
 
@@ -60,11 +60,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <p align="left">
   <a href="https://www.blender.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/bd6a68f7-03b5-45fd-999d-ed8d6f15c907" 
-         width="36" height="36" alt="Blender" />
+         width="40" height="40" alt="Blender" />
   </a>
   <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/user-attachments/assets/72a0bbf7-539a-43f2-bc97-fde128c24032" 
-         width="36" height="36" alt="Unreal Engine" />
+        width="40" height="40" alt="Unreal Engine" />
   </a>
 </p>
 
