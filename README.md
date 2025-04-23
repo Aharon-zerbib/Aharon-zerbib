@@ -113,7 +113,6 @@ width="40" height="40" alt="twitter" />
 
 <a href="https://github.com/Aharon-zerbib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aharon-zerbib&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Aharon-zerbib&layout=compact&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages"/></a>
 
 
 
