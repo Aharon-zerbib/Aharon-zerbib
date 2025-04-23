@@ -112,3 +112,4 @@ width="40" height="40" alt="twitter" />
 <a href="http://www.github.com/Aharon-zerbib"><img src="https://github-readme-stats.vercel.app/api?username=Aharon-zerbib&show_icons=true&hide=stars,issues,&title_color=84cc16&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aharon-zerbib's GitHub stats" /></a>
 
 <a href="https://github.com/Aharon-zerbib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aharon-zerbib&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Aharon-zerbib=anuraghazra&layout=compact)
