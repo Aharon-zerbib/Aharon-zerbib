@@ -38,6 +38,8 @@ width="40" height="40" alt="Vite" /></a>
 <p align="left">
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"   
  width="40" height="40" alt="TypeScript" /></a>
+ <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"   
+ width="40" height="40" alt="TailwindCSS" /></a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"   
 width="40" height="40" alt="React" /></a>
 
