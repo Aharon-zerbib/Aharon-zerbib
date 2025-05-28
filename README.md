@@ -1,12 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aharon 
+<div align="center">
+ 
+Hi my name is Aharon 
 ==============================================================================================================================
 
-* 🌍  I'm based in France
-* ✉️  You can contact me at [amzyt770gmail.com](mailto:amzyt770gmail.com )
+ 🌍  I'm based in France
+ ✉️  You can contact me at [amzyt770gmail.com](mailto:amzyt770gmail.com )
 
-### Skills
 
-<p align="left">
+
+
+
+ <h3>Skills</h3>
+<p >
  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"  
  width="40" height="40" alt="html"/></a>
  <a href="https://www.w3.org/TR/CSS/#css"   
@@ -34,8 +39,9 @@ width="40" height="40" alt="Vite" /></a>
 
 </p>
 
+
 ### Learning
-<p align="left">
+<p >
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg"   
  width="40" height="40" alt="TypeScript" /></a>
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"   
@@ -67,7 +73,7 @@ width="40" height="40" alt="React" /></a>
 
 ### Graph
 
-<p align="left">
+<p >
   <a href="https://www.blender.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg" 
          width="40" height="40" alt="Blender" />
@@ -82,7 +88,7 @@ width="40" height="40" alt="React" /></a>
  
 ### Socials
 
-<p align="left">
+<p >
 
 <a href="https://discord.com/users/daykoro" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" 
@@ -111,10 +117,8 @@ width="40" height="40" alt="twitter" />
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Aharon-zerbib"><img src="https://github-readme-stats.vercel.app/api?username=Aharon-zerbib&show_icons=true&hide=stars,issues,&title_color=84cc16&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Aharon-zerbib's GitHub stats" /></a>
-
-<a href="https://github.com/Aharon-zerbib" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aharon-zerbib&langs_count=10&title_color=84cc16&text_color=a855f7&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
+<a href="http://www.github.com/Aharon-zerbib">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aharon-zerbib" alt="Aharon-zerbib's GitHub Stats" />
+</a>
 
 
