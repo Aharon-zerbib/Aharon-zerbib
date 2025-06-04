@@ -113,12 +113,3 @@ width="40" height="40" alt="twitter" />
 
 </p>
 
-
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Aharon-zerbib">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aharon-zerbib" alt="Aharon-zerbib's GitHub Stats" />
-</a>
-
-
