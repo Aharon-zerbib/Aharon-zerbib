@@ -31,15 +31,12 @@ Hi my name is Aharon
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" 
        width="40" height="40" alt="MongoDB" />
 </a>
- <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg"  
- width="40" height="40" alt="VS Code" /></a>
- <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  
- width="40" height="40" alt="Git"/></a>
  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"  
  width="40" height="40" alt="Vite" /></a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  
+ width="40" height="40" alt="Git"/></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"  
  width="40" height="40" alt="Figma"/></a>
-
 </p>
 
 ### Learning
