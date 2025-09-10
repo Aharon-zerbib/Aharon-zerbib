@@ -26,13 +26,16 @@ Hi my name is Aharon
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"  
  width="40" height="40" alt="React" /></a>
  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg"  
- width="40" height="40" alt="Next.js" /></a>
+ width="40" height="40" alt="Next.js" /></a> 
+ <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"  
+ width="40" height="40" alt="TailwindCSS" /></a>
+ <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"  
+ width="40" height="40" alt="Vite" /></a>
  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" 
        width="40" height="40" alt="MongoDB" />
 </a>
- <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg"  
- width="40" height="40" alt="Vite" /></a>
+
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"  
  width="40" height="40" alt="Git"/></a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg"  
@@ -41,8 +44,7 @@ Hi my name is Aharon
 
 ### Learning
 <p >
- <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg"  
- width="40" height="40" alt="TailwindCSS" /></a>
+
  <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" 
        width="40" height="40" alt="angular" />
