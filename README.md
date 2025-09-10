@@ -63,7 +63,7 @@ Hi my name is Aharon
 </a>
 </p>
 
-<h3Graph></h3>
+<h3>Graph</h3>
 
 <p >
   <a href="https://www.blender.org" target="_blank" rel="noreferrer">
