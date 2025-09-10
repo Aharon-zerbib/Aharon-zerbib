@@ -62,7 +62,7 @@ Hi my name is Aharon
        width="40" height="40" alt="C" />
 </a>
 </p>
-### Graph
+<h3Graph></h3>
 
 <p >
   <a href="https://www.blender.org" target="_blank" rel="noreferrer">
@@ -75,32 +75,4 @@ Hi my name is Aharon
   </a>
 </p>
 
-
- 
-### Socials
-
-<p >
-
-<a href="https://discord.com/users/daykoro" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" 
-       width="40" height="40" alt="discord" />
-</a>
-<a href="https://www.github.com/Aharon-zerbib" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" 
-       width="40" height="40" alt="gitHub" />
-</a>
-<a href="http://www.instagram.com/ronron.mz" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" 
-       width="40" height="40" alt="Instagram" />
-</a>
-<a href="https://www.x.com/Daykoro_" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" 
-width="40" height="40" alt="twitter" />
-</a>
-<a href="https://www.linkedin.com/in/aharon-zerbib-911bb6276/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" 
-       width="40" height="40" alt="LinkedIn" />
-</a>
-
-</p>
 
