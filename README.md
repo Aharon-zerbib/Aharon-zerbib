@@ -44,23 +44,30 @@ Hi my name is Aharon
 
 ### Learning
 <p >
-
- <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" 
-       width="40" height="40" alt="angular" />
-</a>
-<a href="https://www.python.org/doc/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
-       width="40" height="40" alt="python" />
-</a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" 
-       width="40" height="40" alt="Node.js" />
-</a>
-<a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" 
-       width="40" height="40" alt="C" />
-</a>
+  <a href="https://angular.dev/overview" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" 
+         width="40" height="40" alt="Angular" />
+  </a>
+  <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
+         width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" 
+         width="40" height="40" alt="Node.js" />
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" 
+         width="40" height="40" alt="C" />
+  </a>
+  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" 
+         width="40" height="40" alt="PHP" />
+  </a>
+  <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" 
+         width="40" height="40" alt="MySQL" />
+  </a>
 </p>
 
 <h3>Graph</h3>
