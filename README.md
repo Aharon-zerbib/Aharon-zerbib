@@ -48,6 +48,16 @@ Hi my name is Aharon
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" 
          width="40" height="40" alt="Angular" />
   </a>
+ <a href="https://laravel.com/docs" target="_blank" rel="noreferrer">
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg"
+         width="40" height="40" alt="Laravel" />
+  </a>
+
+  <a href="https://inertiajs.com" target="_blank" rel="noreferrer" style="display:inline-block; vertical-align:middle; margin-left:6px;">
+    <span style="font-size:14px; line-height:40px; height:40px; display:inline-block; padding:0 8px; border-radius:4px; background:transparent; color:inherit;">
+      Inertia.js
+    </span>
+  </a>
   <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" 
          width="40" height="40" alt="Python" />
