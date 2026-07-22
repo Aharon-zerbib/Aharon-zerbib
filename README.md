@@ -90,5 +90,4 @@ Hi my name is Aharon
 
 <br>
 
-<!-- Ajout du GIF en bas -->
-![Lain GIF](https://github.com/Aharon-zerbib/Aharon-zerbib/blob/main/lain-serial-experiments-lain.gif?raw=true)
+<video src="lain-serial-experiments-lain.mp4" autoplay loop muted playsinline width="120"></video>
