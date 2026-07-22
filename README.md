@@ -90,4 +90,6 @@ Hi my name is Aharon
 
 <br>
 
-<video src="https://github.com/Aharon-zerbib/Aharon-zerbib/blob/main/lain-serial-experiments-lain.mp4" autoplay loop muted playsinline width="120"></video>
+<p align="center">
+  <video src="https://raw.githubusercontent.com/Aharon-zerbib/Aharon-zerbib/main/lain-serial-experiments-lain.mp4" autoplay loop muted playsinline width="120"></video>
+</p>
