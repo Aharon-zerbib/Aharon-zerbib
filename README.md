@@ -88,4 +88,9 @@ Hi my name is Aharon
   </a>
 </p>
 
+<br>
 
+<!-- Ajout du GIF en bas -->
+<img src="https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif" width="120" alt="Lain GIF">
+
+</div>
