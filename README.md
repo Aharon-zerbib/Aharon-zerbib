@@ -91,6 +91,6 @@ Hi my name is Aharon
 <br>
 
 <!-- Ajout du GIF en bas -->
-<img src="https://media.tenor.com/XLprFoJLe6kAAAAj/lain-serial-experiments-lain.gif" width="120" alt="Lain GIF">
+<img src="https://github.com/Aharon-zerbib/Aharon-zerbib/blob/main/lain-serial-experiments-lain.gif?raw=true" width="120" alt="Lain GIF">
 
 </div>
